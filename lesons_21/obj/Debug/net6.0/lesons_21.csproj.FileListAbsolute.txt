@@ -1,0 +1,15 @@
+/Users/artem/Projects/lesons_21/lesons_21/bin/Debug/net6.0/lesons_21
+/Users/artem/Projects/lesons_21/lesons_21/bin/Debug/net6.0/lesons_21.deps.json
+/Users/artem/Projects/lesons_21/lesons_21/bin/Debug/net6.0/lesons_21.runtimeconfig.json
+/Users/artem/Projects/lesons_21/lesons_21/bin/Debug/net6.0/lesons_21.dll
+/Users/artem/Projects/lesons_21/lesons_21/bin/Debug/net6.0/lesons_21.pdb
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.csproj.AssemblyReference.cache
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.AssemblyInfoInputs.cache
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.AssemblyInfo.cs
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.csproj.CoreCompileInputs.cache
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.dll
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/refint/lesons_21.dll
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.pdb
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/lesons_21.genruntimeconfig.cache
+/Users/artem/Projects/lesons_21/lesons_21/obj/Debug/net6.0/ref/lesons_21.dll
